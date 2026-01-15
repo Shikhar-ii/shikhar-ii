@@ -1,5 +1,5 @@
 
-//<h1 align="center">Shikhar Pandey -Smartyyyyyyy</h1>
+<h1 align="center">Shikhar Pandey -Smartyyyyyyy</h1>
 <h3 align="center">I’m guided by curiosity and a strong interest in understanding how technology and ideas can solve real problems in meaningful ways;</h3>
 
 
@@ -44,69 +44,6 @@
 
 <p align="center">
   <i>“Striving to build technology that matters — for people, for progress, for the planet.”</i>
-</p>//
-
-
-<h1 align="center">Shikhar Pandey</h1>
-<p align="center"><i>Building with curiosity, contributing with purpose</i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shikhar0777&label=Views&style=flat-square" />
 </p>
 
----
-
-<p align="center">
-I’m a Computer Science student interested in how <b>technology, mathematics, and systems</b> can be used to solve real problems responsibly.  
-I value learning through building, research, and open collaboration.
-</p>
-
----
-
-### Focus
-- AI / Machine Learning (learning-driven, research-oriented)
-- Algorithms, systems, and applied mathematics
-- Open-source contribution and collaborative development
-- Technology for social and community impact
-
----
-
-### Community & Impact
-I’m actively involved with **Smart Nepal**, contributing to initiatives that focus on  
-<b>education, technology access, and community-driven development</b>.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shikhar0777/shikhar0777/main/assets/community.jpg" width="70%" />
-</p>
-
-<p align="center">
-  <i>Technology should be built with people in mind.</i>
-</p>
-
----
-
-### Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/smartshikhar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/3049829172/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-### Tools
-<p align="center">
-  Python · Java · C · JavaScript · React  
-  PyTorch · TensorFlow · PostgreSQL · MongoDB  
-  Git · AWS · MATLAB · Arduino
-</p>
-
----
-
-<p align="center">
-  <i>Learning by building. Improving by contributing.</i>
-</p>
 
