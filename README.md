@@ -1,5 +1,5 @@
 
-<h1 align="center">Shikhar Pandey -Smartyyyyyyy</h1>
+//<h1 align="center">Shikhar Pandey -Smartyyyyyyy</h1>
 <h3 align="center">I’m guided by curiosity and a strong interest in understanding how technology and ideas can solve real problems in meaningful ways;</h3>
 
 
@@ -44,4 +44,4 @@
 
 <p align="center">
   <i>“Striving to build technology that matters — for people, for progress, for the planet.”</i>
-</p>
+</p>//
