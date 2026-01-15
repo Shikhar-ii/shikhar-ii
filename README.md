@@ -39,9 +39,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar0777&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
 
 
 
