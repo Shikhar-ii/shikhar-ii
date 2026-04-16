@@ -22,26 +22,6 @@
 
 ---
 
-### 🧰 Languages & Tools
-
-
-C
-Java
-Python
-JavaScript
-SQL
-React
-Node.js
-MongoDB
-PostgreSQL
-Git
-GitHub
-AWS
-MATLAB
-Arduino
-
-
----
 
 ### 📊 LeetCode Stats
 
