@@ -1,6 +1,6 @@
 <h1 align="center">Shikhar Pandey</h1>
 
-<h3 align="center">Business Analytics | Data & Problem Solving</h3>
+<h3 align="center">Contributing through Research and Innovation</h3>
 
 ---
 
