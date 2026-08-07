@@ -1,6 +1,5 @@
 <h1 align="center">Shikhar Pandey</h1>
 
-<h3 align="center">Contributing through Research and Innovation</h3>
 
 ---
 
@@ -23,10 +22,3 @@
 ---
 
 
-### 📊 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/3049829172/">
-    <img src="https://leetcard.jacoblin.cool/3049829172?theme=dark&font=baloo&ext=heatmap"/>
-  </a>
-</p>
