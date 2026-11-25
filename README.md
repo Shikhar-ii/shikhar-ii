@@ -7,10 +7,7 @@
   </a>
   <a href="https://www.linkedin.com/in/smartshikhar/">
     <img src="https://img.shields.io/badge/LinkedIn-240B36?style=flat-square&logo=linkedin&logoColor=C084FC"/>
-  </a>
-  <a href="https://github.com/Shikhar-ii">
-    <img src="https://img.shields.io/badge/GitHub-240B36?style=flat-square&logo=github&logoColor=C084FC"/>
-  </a>
+  
   <a href="https://leetcode.com/u/3049829172/">
     <img src="https://img.shields.io/badge/LeetCode-240B36?style=flat-square&logo=leetcode&logoColor=C084FC"/>
   </a>
