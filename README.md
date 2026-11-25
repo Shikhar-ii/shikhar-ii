@@ -16,9 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="100%" src="./assets/code-activity.svg" alt="100-day coding activity"/>
-</p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Shikhar-ii&background=09071A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=9370DB&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true"/>
