@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shikhar-ii&bg_color=09071A&color=D4AF37&line=9370DB&point=FFD700&area=true&hide_border=true&hide_title=true"/>
+  <img width="100%" src="./assets/code-activity.svg" alt="100-day coding activity"/>
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Shikhar-ii&background=09071A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=9370DB&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Shikhar-ii&background=09071A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=9370DB&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true"/>
 </p>
