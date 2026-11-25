@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,js,html,css,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,C,git,github,vscode&theme=dark"/>
 </p>
 
 <br/>
