@@ -16,14 +16,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=Shikhar-ii&background=0D0819&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&dates=A78BFA&currStreakNum=E9D5FF&sideNums=E9D5FF&hide_border=true"/>
-</p>
+<br/>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shikhar-ii&bg_color=0D0819&color=C084FC&line=A855F7&point=E9D5FF&area=true&area_color=6B21A8&hide_border=true&hide_title=true"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,js,html,css,git,github,vscode&theme=dark"/>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,js,github&theme=dark"/>
+  <img width="85%" src="https://streak-stats.demolab.com?user=Shikhar-ii&background=0D0819&hide_border=true&hide_current_streak=true&sideLabels=C084FC&sideNums=E9D5FF&dates=A78BFA&stroke=35214F"/>
 </p>
